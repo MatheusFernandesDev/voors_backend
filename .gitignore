@@ -1,0 +1,9 @@
+node_modules
+uploads
+.vscode
+.env
+*.env
+dist
+upload
+yarn.lock
+
